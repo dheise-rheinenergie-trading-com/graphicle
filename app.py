@@ -15,8 +15,7 @@ import urllib.parse
 import uuid
 
 '''
-URL: https://ret-goto/dash/
-Optionale Parameter:
+optional parameter:
 - search=[Suchbegriff1,Suchbegriff%20Nummer%202]
 - filter=[Filter1,Filter%20Nummer%202]
 - selected=[Begriff1,Begriff%20Nummer%202]
