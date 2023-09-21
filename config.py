@@ -1,8 +1,8 @@
 import logging
 
 cronicle = {
-    'base_url': 'https://ret-cronicle',
-    'api_key': '694a8255dd7ba5459a4bd822c38cf807',
+    'base_url': 'http://127.0.0.1',
+    'api_key': 'abc123',
     'limit': 2000
 }
 
@@ -18,5 +18,5 @@ dash = {
 }
 
 log = {
-    'level': logging.DEBUG
+    'level': logging.INFO
 }
