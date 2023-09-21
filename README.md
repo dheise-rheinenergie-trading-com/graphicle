@@ -1,5 +1,5 @@
 # graphicle
-Ploty based diagram for the task scheduler "cronicle"
+Ploty based diagram for the task scheduler "[cronicle](https://github.com/jhuckaby/Cronicle)" and his also really good fork [cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
 
 ![image](https://github.com/dheise-rheinenergie-trading-com/graphicle/assets/73586581/e33be328-47c8-44a5-b31b-b57d9808ee76)
 
