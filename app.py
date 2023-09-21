@@ -16,14 +16,14 @@ import uuid
 
 '''
 optional parameter:
-- search=[Suchbegriff1,Suchbegriff%20Nummer%202]
-- filter=[Filter1,Filter%20Nummer%202]
-- selected=[Begriff1,Begriff%20Nummer%202]
+- search=[term1,term%20number%202]
+- filter=[filter1,filter%20number%202]
+- selected=[term1,term%20number%202]
 - opacity=[0-1]
 - export=[jpg]
 - layout=[klay,cose,...]
 - viewmode=[full,readonly]
-- title=Bla-Bla-Text
+- title=some%20title%text
 '''
 
 logging.basicConfig(encoding='UTF-8', level=c.log['level'])
